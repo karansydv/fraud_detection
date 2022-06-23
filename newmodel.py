@@ -1,0 +1,1 @@
+print("just another sample model :) ;)")
